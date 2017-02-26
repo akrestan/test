@@ -1,0 +1,12 @@
+**/target/**
+**/build/**
+**/bin/**
+.project
+.classpath
+*/.settings/**
+**/.gradle/**
+.settings
+**/.gitignore
+.component
+.wtpmodules
+.cache-main
